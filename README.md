@@ -28,8 +28,8 @@ This project demonstrates:
 | Hosting (Optional) | GitHub Pages or Netlify     |
 
 ---
-**
-🔍 Features**
+
+🔍 Features
 
 - 🖼️ Stunning hero banner and call-to-action  
 - 📋 Interactive burger menu with images and prices  
